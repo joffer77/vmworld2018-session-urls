@@ -8,7 +8,7 @@ foreach ($line in $lines) {
     ($title,$url) = $line -split "#"
     $title = $title + ".mp4"
     Write-Host "Downloading $title ..."
-    Invoke-WebRequest -Uri $url -Headers $headers -Outfile $url
+    Invoke-WebRequest -Uri $url -Headers $headers -Outfile "$title"
 }
 
 
