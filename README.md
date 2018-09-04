@@ -1,4 +1,6 @@
-# VMworld US 2018 Breakout Sessions
+# VMworld US 2018 Breakout Sessions (forked)
+
+Forked from https://github.com/lamw/vmworld2018-session-urls
 
 Below are links to all the VMworld 2018 breakout sessions that have been published so far organized by either US or Europe. I may post some additional stats as time permits and whether or not I am called into the legal office ;) Enjoy!
 
